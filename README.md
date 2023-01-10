@@ -1,6 +1,6 @@
 # Snake-Game-ISP
 ## Introduction
-This project is the game Snake coded in java and to be used with the compiler "Ready to Program." There are three different difficulties to choose from and seven different levels available. Additionally, there is an instructions page and a highscore page. The aim of this project was to create a game that would incorporate our lessons on code threads and visual graphics for my grade 11 Computer Science class.
+This project is the game Snake coded in java and is to be used with the compiler "Ready to Program." There are three different difficulties to choose from and seven different levels available. Additionally, there is an instructions page and a high score page. This project aimed to create a game that would incorporate our lessons on code threads and visual graphics for my grade 11 Computer Science class.
 
 ## Table of Contents
 * [General Info](#general-info)
@@ -18,4 +18,4 @@ This is a program of the game Snake with difficulty settings, different levels, 
 1. Download the Ready to Program Windows Java IDE.
 2. Download the Snake-Game-ISP program from GitHub.
 3. Run the HungrySnake.java file with Ready to Program (right-click HungrySnake.java, then press Open with, then press Ready to Program for Java Technology)
-* Enjoy the game4.
+4. Enjoy the game.

@@ -17,5 +17,6 @@ This is a program of the game Snake with difficulty settings, different levels, 
 ## Setup
 1. Download the Ready to Program Windows Java IDE.
 2. Download the Snake-Game-ISP program from GitHub.
-3. Run the HungrySnake.java file with Ready to Program (right-click HungrySnake.java, then press Open with, then press Ready to Program for Java Technology)
-4. Enjoy the game.
+3. Open up the folder RyanWang22.
+4. Run the HungrySnake.java file with Ready to Program (right-click HungrySnake.java, then press Open with, then press Ready to Program for Java Technology).
+5. Enjoy the game.
